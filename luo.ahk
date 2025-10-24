@@ -48,10 +48,11 @@ return
 Send, →
 return
 
-+!4::
+!4::
 Send, €
 return
 
 !y::
 Send, ¥
 return
+

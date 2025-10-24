@@ -32,19 +32,19 @@ return
 Send, Ü
 return
 
-!Numpad8::
+!Up::
 Send, ↑
 return
 
-!Numpad2::
+!Down::
 Send, ↓
 return
 
-!Numpad4::
+!Left::
 Send, ←
 return
 
-!Numpad6::
+!Right::
 Send, →
 return
 
@@ -55,4 +55,5 @@ return
 !y::
 Send, ¥
 return
+
 
